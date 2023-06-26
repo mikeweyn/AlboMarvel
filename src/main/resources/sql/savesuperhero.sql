@@ -1,0 +1,1 @@
+INSERT INTO SUPERHERO(id, NAME, DESCRIPTION, LAST_SYNC ) VALUES(:id, :name, :description, now())

@@ -1,0 +1,1 @@
+SELECT comics FROM CHARACTERS  where  id = :id AND character = :character;

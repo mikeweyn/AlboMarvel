@@ -1,0 +1,1 @@
+SELECT id, name, role FROM COLABORATORS WHERE id IN (:id);
